@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e89e0b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .form {
+    margin: 20px 0;
+  }
+  
+  label {
+    display: block;
+    font-size: 16px;
+    margin: 10px 0 5px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .result {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  #bmi {
+    font-weight: bold;
+  }
+  
+  #status {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
